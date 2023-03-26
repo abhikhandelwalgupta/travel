@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/travel/index.html/static/css/main.cc600a12.css",
-    "main.js": "/travel/index.html/static/js/main.f2339584.js",
-    "static/js/787.8a220983.chunk.js": "/travel/index.html/static/js/787.8a220983.chunk.js",
-    "static/media/video2.mp4": "/travel/index.html/static/media/video2.157c34e75586b1ed172c.mp4",
-    "static/media/video.mp4": "/travel/index.html/static/media/video.4efcbe278d8d061270ed.mp4",
-    "static/media/img7.jpg": "/travel/index.html/static/media/img7.73e3f9e650fb6b45783a.jpg",
-    "static/media/img2.jpg": "/travel/index.html/static/media/img2.ce5a6ea16bc1c325cf91.jpg",
-    "static/media/img9.jpg": "/travel/index.html/static/media/img9.bd2bc9d03a1f1df7394a.jpg",
-    "static/media/img5.jpg": "/travel/index.html/static/media/img5.e550ae24c19964c055e5.jpg",
-    "static/media/img8.jpg": "/travel/index.html/static/media/img8.709d63e1719e9a102ba4.jpg",
-    "static/media/img.jpg": "/travel/index.html/static/media/img.21da4537ddf63126b7e2.jpg",
-    "static/media/img6.jpg": "/travel/index.html/static/media/img6.b59b13d8fddd178e854b.jpg",
-    "static/media/img4.jpg": "/travel/index.html/static/media/img4.c4de8f5a9fc3ea67e1a8.jpg",
-    "static/media/img3.jpg": "/travel/index.html/static/media/img3.9310b3693b0b53401656.jpg",
-    "index.html": "/travel/index.html/index.html",
-    "main.cc600a12.css.map": "/travel/index.html/static/css/main.cc600a12.css.map",
-    "main.f2339584.js.map": "/travel/index.html/static/js/main.f2339584.js.map",
-    "787.8a220983.chunk.js.map": "/travel/index.html/static/js/787.8a220983.chunk.js.map"
+    "main.css": "/travel/static/css/main.cc600a12.css",
+    "main.js": "/travel/static/js/main.2abc9c3d.js",
+    "static/js/787.8a220983.chunk.js": "/travel/static/js/787.8a220983.chunk.js",
+    "static/media/video2.mp4": "/travel/static/media/video2.157c34e75586b1ed172c.mp4",
+    "static/media/video.mp4": "/travel/static/media/video.4efcbe278d8d061270ed.mp4",
+    "static/media/img7.jpg": "/travel/static/media/img7.73e3f9e650fb6b45783a.jpg",
+    "static/media/img2.jpg": "/travel/static/media/img2.ce5a6ea16bc1c325cf91.jpg",
+    "static/media/img9.jpg": "/travel/static/media/img9.bd2bc9d03a1f1df7394a.jpg",
+    "static/media/img5.jpg": "/travel/static/media/img5.e550ae24c19964c055e5.jpg",
+    "static/media/img8.jpg": "/travel/static/media/img8.709d63e1719e9a102ba4.jpg",
+    "static/media/img.jpg": "/travel/static/media/img.21da4537ddf63126b7e2.jpg",
+    "static/media/img6.jpg": "/travel/static/media/img6.b59b13d8fddd178e854b.jpg",
+    "static/media/img4.jpg": "/travel/static/media/img4.c4de8f5a9fc3ea67e1a8.jpg",
+    "static/media/img3.jpg": "/travel/static/media/img3.9310b3693b0b53401656.jpg",
+    "index.html": "/travel/index.html",
+    "main.cc600a12.css.map": "/travel/static/css/main.cc600a12.css.map",
+    "main.2abc9c3d.js.map": "/travel/static/js/main.2abc9c3d.js.map",
+    "787.8a220983.chunk.js.map": "/travel/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc600a12.css",
-    "static/js/main.f2339584.js"
+    "static/js/main.2abc9c3d.js"
   ]
 }
